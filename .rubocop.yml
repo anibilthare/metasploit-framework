@@ -6,7 +6,6 @@
 # Updates to this file should include a 'Description' parameter for any
 # explaination needed.
 
-# inherit_from: .rubocop_todo.yml
 
 AllCops:
   TargetRubyVersion: 2.2
